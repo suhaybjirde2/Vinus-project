@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 *AUDIENCE 
 
 This course is for anyone who wants to learn Git. 
 No prior experience is required.
+=======
+WHO IS THIS COURSE FOR
+=====================
+This course is for anyone who wants to learn Git. 
+>>>>>>> bagfix
