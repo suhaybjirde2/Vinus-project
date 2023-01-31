@@ -5,3 +5,4 @@ Creating Snapshots
   - Staging changes
 ================
 new line
+3
